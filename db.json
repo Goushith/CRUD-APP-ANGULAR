@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "Rent",
+      "category": "Expense",
+      "freshnessList": "Others",
+      "price": 3000,
+      "comment": "Rent Paid",
+      "date": "2022-12-15T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Birthday Party",
+      "category": "Expense",
+      "freshnessList": "Others",
+      "price": 40,
+      "comment": "Son's Birthday Party",
+      "date": "2022-12-13T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Sold House",
+      "category": "Expense",
+      "freshnessList": "Others",
+      "price": 400000,
+      "comment": "Sold old house",
+      "date": "2022-12-19T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Food",
+      "category": "Expense",
+      "freshnessList": "Others",
+      "price": 277,
+      "comment": "Food for lunch",
+      "date": "2022-12-14T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Milk",
+      "category": "Expense",
+      "freshnessList": "Others",
+      "price": 440,
+      "comment": "Paid for Milk",
+      "date": "2022-12-14T18:30:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
